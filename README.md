@@ -1,69 +1,69 @@
 # 30 Days DSA Challenge – Java 🚀
 
-This repository contains my **30 Days Data Structures & Algorithms Challenge** implemented using **Java**.
+This repo has my **30 Days of Data Structures & Algorithms in Java**.  
 
-I created this project to strengthen my problem-solving skills, understand core DSA concepts, and build consistency through daily coding.
+I started this challenge to **improve my problem-solving skills**, understand DSA concepts better, and keep myself consistent with daily coding.  
 
 ---
 
-## 📌 What This Repository Contains
+## What’s in this repo
 
-- Daily DSA problems (Day 1 to Day 30)
-- Java implementations with clear logic
-- Concepts such as:
+- My solutions from **Day 1 to Day 30**
+- Java code with clear logic
+- Topics I practiced:
   - Arrays
   - Sliding Window
   - Strings
   - Searching & Sorting
-  - Trees & Binary Search Trees
+  - Trees & BST
   - Hashing
-  - Basic OOP concepts
-- Small real-world inspired mini programs
+  - Basic OOP stuff
+- Mini real-world inspired programs
 
 ---
 
-## 🛠 Technologies Used
+## Tech I used
 
 - Java (Core Java)
 - Git & GitHub
-- Command Line (Windows)
+- Command Prompt (Windows)
 
 ---
 
-## 🎯 Purpose of This Challenge
+## Why I’m doing this
 
-- Improve coding logic and confidence
-- Prepare for technical interviews
+- To **think like a programmer**
+- Get ready for interviews
 - Build a strong GitHub profile
-- Develop daily coding discipline
+- Keep myself disciplined with daily practice
 
 ---
 
-## 🧠 Learning Approach
+## How I learned
 
-- One concept per day
-- Focus on understanding, not memorizing
-- Clean and readable code
-- Regular commits to track progress
-
----
-
-## ⚠️ Usage Notice
-
-This repository is intended for **learning and reference purposes**.
-
-If you use this code:
-- Please **do not claim it as your own**
-- Try to understand the logic before using
+- One topic per day
+- Focused on understanding, not just copying
+- Tried to write **clean and readable code**
+- Made sure to commit **every day**
 
 ---
 
-## 👩‍💻 Author
+## Usage Note
+
+This repo is for **learning and reference**.  
+
+If you use my code:
+- Don’t claim it as your own  
+- Understand it first, then use it  
+
+---
+
+## About Me
 
 **Snehalatha Reddy**  
 Aspiring Software Developer  
-DSA | Java | Problem Solving
+DSA | Java | Problem Solving  
 
 ---
 
-⭐ If you find this repository helpful, feel free to star it!
+⭐ If this repo helps you, feel free to star it!  
